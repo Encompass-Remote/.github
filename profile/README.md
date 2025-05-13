@@ -36,7 +36,8 @@ At Encompass Remote, we are driven by a shared mission to:
 
 ## 👥 Leadership Team
 
-- **Beyan Bonal, MBA, RCIS, NASPE TESTAMUR** — Chief Executive Officer  
+- **Beyan Bonal, MBA, RCIS, NASPE TESTAMUR** — Chief Executive Officer
+- **Brian Perkins** — Director of Technology and Analytics
 - **Tristan Smith, MD** — Chief Medical Advisor  
 - **Latoya Linton-Frazier, MD** — Medical Advisor, RPM & CCM  
 - **Nancy Bonnet, NP** — Clinical Advisor, Heart Failure & Chronic Care  
@@ -45,7 +46,6 @@ At Encompass Remote, we are driven by a shared mission to:
 - **Roberta “Bobbie” Kurta, RN** — Patient Care Specialist  
 - **Dawn Kociban** — Patient Care Specialist  
 - **Stacy Pollack** — Director, Billing Services (CCM)
-
 ---
 
 ## 📍 Contact Us
