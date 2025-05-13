@@ -45,8 +45,7 @@ At Encompass Remote, we are driven by a shared mission to:
 - **Tristan Smith, MD** — Chief Medical Advisor  
 - **Latoya Linton-Frazier, MD** — Medical Advisor, RPM & CCM  
 - **Nancy Bonnet, NP** — Clinical Advisor, Heart Failure & Chronic Care  
-- **Olutola Oni** — Chief Technology Officer  
-- **Jennifer Jasko, RN** — Vice President, Patient Services  
+- **Olutola Oni** — Chief Technology Officer    
 - **Roberta “Bobbie” Kurta, RN** — Patient Care Specialist  
 - **Dawn Kociban** — Patient Care Specialist  
 - **Stacy Pollack** — Director, Billing Services (CCM)
