@@ -2,7 +2,7 @@
 
 **Harmonizing Diagnostic Data Across Specialties**
 
-![Encompass Remote Logo](profile/encompass.png)
+![Encompass Remote Logo](encompass.png)
 
 Encompass Remote is a healthcare technology company committed to expanding access to care for individuals with chronic conditions. Through optimized workflows and enhanced reimbursement strategies, we aim to alleviate administrative burdens on clinics and hospitals—delivering efficient, compliant, and patient-centric services.
 
