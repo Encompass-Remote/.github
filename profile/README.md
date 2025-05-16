@@ -27,7 +27,7 @@ We deliver a robust suite of remote and virtual care solutions designed to suppo
 
 ---
 
-## 🧠 Our Vision
+## 🏆 Our Vision
 
 At Encompass Remote, we are driven by a shared mission to:
 
