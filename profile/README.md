@@ -43,18 +43,17 @@ At Encompass Remote, we are driven by a shared mission to:
 - **Beyan Bonal, MBA, RCIS, NASPE TESTAMUR** — Chief Executive Officer
 - **Brian Perkins** — Director of Technology and Analytics
 - **Tristan Smith, MD** — Chief Medical Advisor  
-- **Latoya Linton-Frazier, MD** — Medical Advisor, RPM & CCM  
+- **Latoya Linton-Frazier, MD** — Medical Advisor, RPM & CCM, CIED 
 - **Nancy Bonnet, NP** — Clinical Advisor, Heart Failure & Chronic Care  
-- **Olutola Oni** — Chief Technology Officer    
 - **Roberta “Bobbie” Kurta, RN** — Patient Care Specialist  
-- **Dawn Kociban** — Patient Care Specialist  
-- **Stacy Pollack** — Director, Billing Services (CCM)
+- **Dawn Kociban** — Director, Patient Care Specialist  
+- **Stacy Pollack** — VP, Health Care Economical &Billing Services (CCM)
 ---
 
 ## 📍 Contact Us
 
 - 📫 **Email:** [clientservices@encompassremote.net](mailto:clientservices@encompassremote.net)  
-- ☎️ **Phone:** 724-299-1155  
+- ☎️ **Phone:** 833-717-7399 
 - 📬 **Mailing Address:** PO Box 73, Hickory, PA 15340  
 
 ---
