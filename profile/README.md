@@ -1,7 +1,7 @@
 # 👋 Welcome to Encompass Remote
 
 
-![Encompass Remote Logo](encompass.png)
+![Encompass Remote Logo](encompass2.png)
 
 
 **Harmonizing Diagnostic Data Across Specialties**
