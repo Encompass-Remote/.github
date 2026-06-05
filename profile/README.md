@@ -1,4 +1,4 @@
-# 👋 Welcome to Encompass Remote
+# 👋 Welcome to Encompass Remote, INC.
 
 
 ![Encompass Remote Logo](encompass2.png)
@@ -41,7 +41,8 @@ At Encompass Remote, we are driven by a shared mission to:
 ## 👥 Leadership Team
 
 - **Beyan Bonal, MBA, RCIS, NASPE TESTAMUR** — Chief Executive Officer
-- **Tristan Smith, MD** — Chief Medical Advisor  
+- **Tristan Smith, MD** — Chief Medical Advisor
+- **Margo B** - Lead Software Engineer  
 - **Latoya Linton-Frazier, MD** — Medical Advisor, RPM & CCM, CIED 
 - **Nancy Bonnet, NP** — Clinical Advisor, Heart Failure & Chronic Care  
 - **Roberta “Bobbie” Kurta, RN** — Patient Care Specialist  
@@ -53,7 +54,7 @@ At Encompass Remote, we are driven by a shared mission to:
 
 - 📫 **Email:** [clientservices@encompassremote.net](mailto:clientservices@encompassremote.net)  
 - ☎️ **Phone:** 833-717-7399 
-- 📬 **Mailing Address:** PO Box 73, Hickory, PA 15340  
+- 📬 **Mailing Address:** 2400 Ansys Dr. Ste 102, Canonsburg, PA 15317
 
 ---
 
